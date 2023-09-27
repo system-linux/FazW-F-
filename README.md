@@ -1,2 +1,2 @@
-# FazW-F-
+# FazWiFi
 Wİ-Fİ brute force attack program
